@@ -1,0 +1,12 @@
+第一步：关闭文件更新
+
+git pull
+
+第二步：修改文件提交
+
+git add 文件名
+git commit Java技术路线图.mmap -m "修改了什么"
+
+第三步：推送到远程
+
+git push origin master 
