@@ -5,7 +5,8 @@ git pull
 第二步：修改文件提交
 
 git add 文件名
-git commit Java技术路线图.mmap -m "修改了什么"
+git commit Java技术路线图.mmap -m "删除测试操作"
+git commit 远程操作命令.txt -m "git操作命令"
 
 第三步：推送到远程
 
